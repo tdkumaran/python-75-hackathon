@@ -1,4 +1,4 @@
-#intialize different type variables
+#intialize different type of variables
 #intialize string
 string="this is a string"
 print(string)
