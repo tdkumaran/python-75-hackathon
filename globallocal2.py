@@ -1,3 +1,4 @@
+#use of global variable
 globalvar="global"
 #a global variable defined
 def fun():
