@@ -1,5 +1,5 @@
 #split string
-s="am daily coding in Python, so, I develope my knowledge"
+s="am daily coding in Python, so, I develoope my knowledge"
 print(s.split(","))
 #join list of string
 date="14"
