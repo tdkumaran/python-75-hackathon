@@ -1,3 +1,4 @@
+#dictionary
 dict={"myname":"abc","num":12,"age":18}
 #to add country in that dictionary
 dict["country"]="india"
