@@ -7,7 +7,7 @@ print("This can\'t be happen soon \n So leave that")
 #printing some path use r before string to consider everything as string
 #see difference
 print("user\name")
-#r used makes consider as raw string
+#r used makes consider as raw strings
 print(r"user\name")
 
 
