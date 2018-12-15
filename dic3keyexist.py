@@ -1,3 +1,4 @@
+#check key exist
 d={"country":'india',"district":'madurai',"pin":623}
 print(d)
 #check the key district in dictionary d
