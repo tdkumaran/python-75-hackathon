@@ -1,6 +1,6 @@
 #range function
 for x in range(10):
-#range upto 10
+#range upto 10 comes
     print(x)
 #print upto number 9 starting from 0
 for x in range(10,20):
