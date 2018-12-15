@@ -14,3 +14,4 @@ d.pop("two")
 #pop operation removes the values with key
 print(d)
 #removed two
+
