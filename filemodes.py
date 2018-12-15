@@ -1,3 +1,4 @@
+#file
 file=open("new10.txt","r+")
 #file opening
 print("Name of file",file.name)
