@@ -1,7 +1,6 @@
-def fact(n):
-    if(n==1):
-        print("The output is",n)
+def even(n):
+    if(n%2==0):
+        print("The output is even number",n)
     else:
-        factorial=n*fact(n-1)
-        print("The output is",factorial)
+        print("The output is odd number",n)
 fact(3)
