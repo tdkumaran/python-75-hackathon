@@ -1,4 +1,4 @@
-#variables
+# declare variables
 #intialize
 a=20
 #int
