@@ -1,3 +1,4 @@
+#create nonlocal
 def fun():
     x="local variable"
     #local variable defined
