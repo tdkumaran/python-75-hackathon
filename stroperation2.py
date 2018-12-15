@@ -1,4 +1,4 @@
-#string processing (strip whitespace)
+#string processing (strip whitespaces)
 t="This is python75 hackathon challenge               "
 s="         Makes a good chance to regain all python knowledge"
 u="        Now both left and right side strip           "
