@@ -1,3 +1,4 @@
+#global vs local
 def mul(x,y):
     op=x*y
     print("The value of op inside function is",op)
