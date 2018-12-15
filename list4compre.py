@@ -1,4 +1,4 @@
-#list comprehension
+#list comprehensions
 list1=[1,2,3,4,5]
 def iseven(x):
     return(x%2==0)
