@@ -1,4 +1,4 @@
-#basics
+#basics of print
 #to print a statement string
 print('Hello buddies')
 print("Am also a challenger for python 75")
