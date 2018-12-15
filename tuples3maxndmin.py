@@ -1,3 +1,4 @@
+#max and min in tuples
 tup1=24,42,32,21
 tup2=33,22,55,66,77,60
 #to find max of tup1
