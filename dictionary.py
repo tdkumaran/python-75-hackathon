@@ -1,4 +1,4 @@
-#dictionary
+#create dictionary
 d={}
 #to create empty dictionary
 #the keys also be a string
