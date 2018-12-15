@@ -1,3 +1,4 @@
+#listing in dictionary
 d={"one":1,"two":2,"three":3}
 print(list(d.keys()))
 #listing the keys of dictionary
