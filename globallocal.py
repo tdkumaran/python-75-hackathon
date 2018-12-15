@@ -1,3 +1,4 @@
+#global use
 def f():
     global x
     y=x
