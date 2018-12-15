@@ -1,3 +1,4 @@
+#dictionary clear
 d={"number":124, "name":'ram', "roomnum":24}
 print(d["roomnum"],d["number"],d["name"])
 #all values are accessable
