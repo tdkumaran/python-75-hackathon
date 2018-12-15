@@ -1,7 +1,7 @@
 #slicing
 t="python"
 s="challenge"
-#[:] this segment of slice print entire thing
+#[:] this segment of slice print entire string
 print(t[0:2]+s[:])
 #strings are immutable t[1]='a' gives error
 word='kumaran'
