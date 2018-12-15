@@ -1,7 +1,9 @@
 #variables
 #intialize
 a=20
-b=15
+#int
+b=15.0 
+#float
 z=2
 c=a/b
 # / operator always returns an floating point value
