@@ -1,4 +1,4 @@
-#nested
+#nested tuples
 a=1,2,3,4
 print(a)
 #the above created tuple is used in b
