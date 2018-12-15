@@ -1,4 +1,5 @@
 import random
+#importing random
 n=int(input("Enter the number of color to be in"))
 for x in range(n):
     list=[]
