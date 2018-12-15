@@ -1,4 +1,4 @@
-#copying list
+#copy list
 list1=[1,2,"raj",3,"raji"]
 list2=list1
 print(list2)
