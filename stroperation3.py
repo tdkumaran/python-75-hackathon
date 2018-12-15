@@ -1,4 +1,4 @@
-#string (searching for text)
+#string searching for text
 word="this is actually a good thing to start with it"
 #searching pattern good in word
 print(word.find('good'))
