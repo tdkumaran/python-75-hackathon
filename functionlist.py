@@ -4,6 +4,7 @@ def sum(l):
     for x in l:
         op=op+x
     return op
+#return addition of values in the list
 
 n=int(input("Enter the length of list"))
 #input length of list
