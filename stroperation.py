@@ -1,4 +1,4 @@
-#to concatenate string
+#to concatenate strings
 prefix="talent"
 suffix="accurate"
 output=prefix+suffix
