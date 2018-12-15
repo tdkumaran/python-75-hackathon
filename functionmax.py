@@ -1,3 +1,4 @@
+#maximum of three numbers
 def max(x,y,z):
     if x>y and x>z:
         print("The biggest number is",x)
